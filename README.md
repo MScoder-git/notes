@@ -1,4 +1,4 @@
-#Notes app
+##Notes app
 
 An elegant notes taking app written in Flutter that uses sqflite for storage.
 
@@ -20,5 +20,4 @@ An elegant notes taking app written in Flutter that uses sqflite for storage.
 
 ## Screenshots
 <img src="github_assets/edit.gif" height="800">
-<img src="github_assets/dark.gif" height="800">
 
